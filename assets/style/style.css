@@ -1,0 +1,24 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+.menu {
+  min-height: 85vh;
+}
+
+.container-fluid {
+  max-width: 70%;
+  min-height: 5vh;
+}
+
+.container {
+  max-width: 70%;
+  margin: 0px auto;
+}
+
+.text {
+  min-height: 25vh;
+  width: 100%;
+}
